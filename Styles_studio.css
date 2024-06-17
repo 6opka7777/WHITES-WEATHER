@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    margin: 0;
+}
+
+.receipt {
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.header, .footer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.order-details {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+
+.p7 {
+   font-size: medium;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+.footer p {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.file-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.file-button a {
+    color: rgb(0, 0, 0);
+}
+
+.file-button:hover {
+    background-color: rgb(7, 192, 131);
+}
