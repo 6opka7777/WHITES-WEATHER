@@ -5,6 +5,8 @@ To run the program,
 Run the instruction file:
 EN-WHITES-WEATHER.html
 
+
+
 RU:
 WHITES WEATHER - это еще один проект WHITES, с помощью которого вы можете узнавать погоду! 
 
